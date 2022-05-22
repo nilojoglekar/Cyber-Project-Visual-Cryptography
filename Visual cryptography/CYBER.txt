@@ -1,0 +1,5 @@
+pip install --upgrade Pillow
+python visual_crypto.py -vvv --message message.png --secret secret.png
+
+
+show.py ciphered.png secret.png
